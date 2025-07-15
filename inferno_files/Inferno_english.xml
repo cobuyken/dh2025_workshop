@@ -58,7 +58,7 @@
 	"id": "https://raw.githubusercontent.com/cobuyken/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715155510590",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-15T13:55:10.590Z",
-	"dcterms:modified": "2025-07-15T13:55:10.590Z",
+	"dcterms:modified": "2025-07-15T14:01:54.244Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/cobuyken",
 		"@type": [
@@ -137,7 +137,7 @@
 	"id": "https://raw.githubusercontent.com/cobuyken/dh2025_workshop/main/inferno_files/Inferno_english.xml?person_annotation_20250715155555958",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-07-15T13:55:55.958Z",
-	"dcterms:modified": "2025-07-15T13:58:35.364Z",
+	"dcterms:modified": "2025-07-15T14:02:00.223Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/cobuyken",
 		"@type": [
