@@ -152,7 +152,7 @@
 
             <lg n="19" xml:id="lg019">
                Hence he drew forth the shade of <persName xml:id="Adam001">the First Parent</persName>,
-               <l n="56">And that of his son <persName type="identifiable" xml:id="Abel001">Abel</persName>, and of <persName>Noah</persName>,</l>
+               <l n="56">And that of his son <persName type="identifiable" xml:id="Abel001">Abel</persName>, and of <persName xml:id="Noah001">Noah</persName>,</l>
                <l n="57">Of Moses the lawgiver, and the obedient</l>
             </lg>
 
